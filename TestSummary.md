@@ -1,24 +1,23 @@
 # Test Summary Report
 
-## Project
+**Project Name:** OpenCart Manual Testing
+**Module:** Register
 
-OpenCart Register Feature Testing
-
-## Total Test Cases
-
-7
-
-## Passed
-
-6
-
-## Failed
-
-1
+## Test Execution Summary
+Total Test Cases: 7
+Passed: 6
+Failed: 1
+Blocked: 0
 
 ## Bugs Identified
 
 1
+
+## Defects Found
+High: 0
+Medium: 1
+Low: 0
+
 
 ## Conclusion
 
