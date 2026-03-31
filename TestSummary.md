@@ -1,4 +1,4 @@
-# Test Summary Report
+# Test Summary Report - Register
 
 **Project Name:** OpenCart Manual Testing
 **Module:** Register
